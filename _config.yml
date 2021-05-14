@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Paula Pasqualini
 tagline:          
-description:      'I am a software engineer from São Paulo, Brazil, working @ <a href="https://vtex.com/">VTEX</a>'
+description:      'I am a software engineer from São Paulo, Brazil.'
 url:              https://pypas.github.io
 baseurl:          /
 
@@ -40,3 +40,4 @@ whitelist:
   - jekyll-paginate
   - jekyll-redirect-from
 plugins: [jekyll-paginate]
+paginate_path: "/projects/page:num/"
