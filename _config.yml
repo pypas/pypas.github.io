@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Paula Pasqualini
+title:            Paula Yumi Pasqualini
 tagline:          
-description:      'I am a software engineer from São Paulo, Brazil.'
+description:      'Software Engineer'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Paula Pasqualini'
+  name:           'Paula Yumi Pasqualini'
   url:            https://github.com/pypas
 
 paginate:         5
