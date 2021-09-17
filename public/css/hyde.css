@@ -252,3 +252,12 @@ a.sidebar-nav-item:focus {
 .float-right {
   float: right;
 }
+.badge {
+  padding: 8px;
+  border-radius: 5px;
+  color: white;
+}
+
+.badge.js { background-color: #323330; }
+.badge.rb { background-color: #820C02; }
+.badge.py { background-color: #306998; }

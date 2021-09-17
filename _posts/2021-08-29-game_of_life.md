@@ -3,11 +3,13 @@ layout: post
 title: Game of Life
 ---
 
+<span class="badge js">Javascript</span>
+
 Another project inspired by Robert Heaton's series of [Programming Projects For Advanced Beginners](https://robertheaton.com/2018/07/20/project-2-game-of-life/).
 
 The code is written in JavaScript and uses [Node Canvas](https://github.com/Automattic/node-canvas) for image generation and [GraphicsMagick](https://aheckmann.github.io/gm//) for GIF generation. The Git repository for this project can be found [here](https://github.com/pypas/game-of-life).
 
-The Game of Life follows four simple rules:
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) follows four simple rules:
 
 1. Any live cell with 0 or 1 live neighbors becomes dead, because of underpopulation
 
@@ -19,7 +21,7 @@ The Game of Life follows four simple rules:
 
 An example of the Game of Life:
 
-![game_of_life](../img/game_of_life.gif)
+![game_of_life](/../img/game_of_life.gif)
 
 -----
 
